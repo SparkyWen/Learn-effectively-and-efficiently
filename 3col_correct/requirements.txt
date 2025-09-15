@@ -1,0 +1,3 @@
+
+openpyxl>=3.1
+# Tkinter 通常随 Python 附带，无需额外安装
