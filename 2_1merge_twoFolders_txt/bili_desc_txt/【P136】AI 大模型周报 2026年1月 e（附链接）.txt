@@ -1,0 +1,15 @@
+[Kimi K2.5] https://www.kimi.com/blog/kimi-k2-5.html
+[OpenAI Prism] https://openai.com/zh-Hans-CN/index/introducing-prism
+[Manus Skills] https://manus.im/blog/manus-skills
+[Claude interactive tools] https://claude.com/blog/interactive-tools-in-claude
+[Clawdbot/Moltbot] https://clawd.bot
+[MiniMax-M2-her] https://www.minimax.io/news/a-deep-dive-into-the-minimax-m2-her-2
+[MiniMax Music 2.5] https://www.minimax.io/news/minimax-music-25
+[DeepSeek-OCR 2] https://huggingface.co/deepseek-ai/DeepSeek-OCR-2
+[Google Gemini - Agentic Vision] https://blog.google/innovation-and-ai/technology/developers-tools/agentic-vision-gemini-3-flash
+[Google D4RT] https://d4rt-paper.github.io
+[Hyper3D - Rodin Gen-2 Edit] https://hyper3d.ai
+[HunyuanImage 3.0-Instruct] https://hunyuan.tencent.com/image/zh?tabIndex=0
+[Qwen3-Max-Thinking] https://qwen.ai/blog?id=qwen3-max-thinking
+[LingBot-Depth] https://technology.robbyant.com/lingbot-depth
+[Helix 02] https://www.figure.ai/news/helix-02

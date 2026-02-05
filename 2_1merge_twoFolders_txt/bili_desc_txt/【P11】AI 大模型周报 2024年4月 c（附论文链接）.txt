@@ -1,0 +1,14 @@
+[AniPortrait] https://arxiv.org/abs/2403.17694
+[APAM] https://arxiv.org/abs/2404.04204
+[APISR] https://arxiv.org/abs/2403.01598
+[ChemDFM] https://arxiv.org/abs/2401.14818
+[CodeFuse] https://codefuse.alipay.com/welcome/product
+[CodeGemma] https://huggingface.co/blog/codegemma
+[EgoExoLearn] https://arxiv.org/abs/2403.16182
+[Gecko] https://arxiv.org/abs/2403.20327
+[GPT-4 Turbo] https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4
+[GreedLlama] https://arxiv.org/abs/2404.02934
+[Mixtral 8x22B] https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1-4bit
+[Octopus v2] https://arxiv.org/abs/2404.01744
+[VoicePilot] https://arxiv.org/abs/2404.04066
+[通义灵码] https://tongyi.aliyun.com/lingma

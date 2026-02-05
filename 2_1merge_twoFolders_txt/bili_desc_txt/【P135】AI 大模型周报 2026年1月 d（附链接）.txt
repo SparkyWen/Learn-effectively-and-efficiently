@@ -1,0 +1,8 @@
+[TranslateGemma] https://blog.google/innovation-and-ai/technology/developers-tools/translategemma
+[Qwen3-TTS] https://qwen.ai/blog?id=qwen3tts-0115
+[FLUX.2 [klein]] https://bfl.ai/models/flux-2-klein
+[GLM-4.7-Flash] https://huggingface.co/zai-org/GLM-4.7-Flash
+[LFM2.5-1.2B-Thinking] https://www.liquid.ai/blog/introducing-lfm2-5-the-next-generation-of-on-device-ai
+[Digital Red Queen] https://pub.sakana.ai/drq
+[CityCube] https://arxiv.org/pdf/2601.14339
+[WEF Global Risks Report 2026] https://reports.weforum.org/docs/WEF_Global_Risks_Report_2026.pdf

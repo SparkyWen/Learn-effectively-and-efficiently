@@ -1,0 +1,12 @@
+[MiniMax Agent] https://agent.minimax.io
+[Mistral - Voxtral]https://mistral.ai/news/voxtral
+[Kimi K2] https://moonshotai.github.io/Kimi-K2
+[Lovart AI] https://www.lovart.ai
+[人工味觉系统] https://www.pnas.org/doi/10.1073/pnas.2413060122
+[Gemini Embedding] https://arxiv.org/pdf/2503.07891
+[LabUtopia] https://arxiv.org/pdf/2505.22634
+[MemOS] https://arxiv.org/pdf/2505.22101
+[AI Flow] https://www.arxiv.org/pdf/2506.12479
+[IndexTTS2] https://index-tts.github.io/index-tts2.github.io
+[CoT monitoring] https://arxiv.org/pdf/2507.11473v1
+[ChatGPT改变说话习惯] https://arxiv.org/pdf/2409.01754

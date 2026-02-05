@@ -1,0 +1,13 @@
+[Seedance 1.0 pro] https://seed.bytedance.com/en/seedance
+[SeedEdit 3.0] https://seed.bytedance.com/en/tech/seededit
+[Doubao-Seed-1.6] https://www.volcengine.com/docs/82379/1593702
+[Unreal Engine 5.6] https://www.unrealengine.com/en-US/news/unreal-engine-5-6-is-now-available
+[NVIDIA Omniverse Blueprint] https://blogs.nvidia.com/blog/smart-city-ai-blueprint-europe
+[o3-pro] https://help.openai.com/en/articles/9624314-model-release-notes
+[Magistral] https://mistral.ai/news/magistral
+[1X Redwood] https://www.1x.tech/discover/redwood-ai
+[WebDancer] https://arxiv.org/pdf/2505.22648
+[Genspark AI Browser] https://www.genspark.ai/browser
+[Manus Playbook] https://manus.im/playbook
+[MiniMax-Remover] https://arxiv.org/pdf/2505.24873
+[MemoryOS] https://github.com/BAI-LAB/MemoryOS

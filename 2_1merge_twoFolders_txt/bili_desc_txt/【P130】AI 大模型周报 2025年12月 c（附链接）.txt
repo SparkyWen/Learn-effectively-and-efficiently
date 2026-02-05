@@ -1,0 +1,18 @@
+[Gemini 3 Flash] https://blog.google/products/gemini/gemini-3-flash
+[Google Disco - GenTabs] https://labs.google/disco
+[FunctionGemma] https://blog.google/technology/developers/functiongemma
+[Manus 1.6] https://manus.im/blog/manus-max-release
+[Seedance 1.5 Pro] https://seed.bytedance.com/zh/seedance1_5_pro
+[Wan2.6] https://wan.video/blog/wan2.6-introduction
+[腾讯Hunyuan World 1.5] https://3d-models.hunyuan.tencent.com/world
+[Vidu Agent] https://www.vidu.com/create/character2video
+[TurboDiffusion视频生成加速框架] https://jt-zhang.github.io/files/TurboDiffusion_Technical_Report.pdf
+[Meta – SAM Audio] https://aidemos.meta.com/segment-anything
+[Qwen-Image-Layered] https://qwen.ai/blog?id=qwen-image-layered
+[ChatGPT Images] https://openai.com/index/new-chatgpt-images-is-here
+[Sora with Codex] https://openai.com/index/shipping-sora-for-android-with-codex
+[GPT-5.2-Codex] https://openai.com/index/introducing-gpt-5-2-codex
+[小米MiMo-V2-Flash] https://aistudio.xiaomimimo.com/#
+[Thinking Machines - Tinker updates] https://thinkingmachines.ai/blog/tinker-general-availability
+[LLMs in CFA] https://arxiv.org/pdf/2512.08270
+[Aaru] https://aaru.com

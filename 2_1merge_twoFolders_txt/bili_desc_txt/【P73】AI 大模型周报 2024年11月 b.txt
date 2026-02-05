@@ -1,0 +1,11 @@
+[ADMA Copilot农业数据管理] https://arxiv.org/pdf/2411.00188
+[Digit 360数字化触觉] https://arxiv.org/pdf/2411.02479
+[EVA可扩展对齐框架] https://arxiv.org/pdf/2411.00062
+[HALLO2音频驱动的人像视频] https://arxiv.org/pdf/2410.07718
+[机器人控制Scaling Laws] https://data-scaling-laws.github.io
+[Multi³Hate恶意言论检测] https://arxiv.org/pdf/2411.03888
+[Oasis互动型AI体验] https://oasis.decart.ai/overview
+[Project Sid智能体文明] https://arxiv.org/pdf/2411.00114
+[SELA自主机器学习智能体] https://arxiv.org/pdf/2410.17238
+[视频生成模型与世界模型的距离] https://arxiv.org/pdf/2411.02385
+[TableGPT2表格数据任务] https://arxiv.org/pdf/2411.02059

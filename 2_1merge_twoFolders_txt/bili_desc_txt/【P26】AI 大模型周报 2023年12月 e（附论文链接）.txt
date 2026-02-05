@@ -1,0 +1,17 @@
+[DreamWire] https://arxiv.org/abs/2311.15421
+[Pangu Agent] https://arxiv.org/abs/2312.14878
+[CodeArts Snap] https://www.huaweicloud.com/product/codeartside/snap.html
+[SCEdit] https://arxiv.org/abs/2312.11392
+[I2VGen-XL] https://arxiv.org/abs/2311.04145
+[Amphion] https://arxiv.org/abs/2312.09911
+[LMDrive] https://arxiv.org/abs/2312.07488v2
+[AppAgent] https://arxiv.org/abs/2312.13771
+[SkyAgents] https://model-platform.tiangong.cn
+[SMERF] https://arxiv.org/abs/2312.07541
+[VideoPoet] https://sites.research.google/videopoet
+[InsightPilot] https://www.microsoft.com/en-us/research/publication/insightpilot-an-llm-empowered-automated-data-exploration-system
+[PromptBench] https://arxiv.org/abs/2312.07910v1
+[Fairy] https://arxiv.org/abs/2312.13834
+[DiffPortrait3D] https://arxiv.org/abs/2312.13016
+[DriveLM] https://arxiv.org/abs/2312.14150v1
+[CogAgent] https://arxiv.org/abs/2312.08914v1

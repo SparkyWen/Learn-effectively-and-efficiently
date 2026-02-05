@@ -1,0 +1,14 @@
+[CultiVerse] https://arxiv.org/abs/2405.00435
+[DrEureka] https://eureka-research.github.io/dr-eureka
+[Gemini Medicine] https://arxiv.org/abs/2404.18416
+[Hippocrates] https://arxiv.org/pdf/2404.16621
+[JAT] https://arxiv.org/abs/2402.09844
+[LeRobot] https://github.com/huggingface/lerobot
+[LingML] https://arxiv.org/abs/2405.04165
+[LLMSat] https://arxiv.org/abs/2405.01392
+[Make-it-Real] https://arxiv.org/abs/2404.16829
+[OmniDrive] https://arxiv.org/abs/2405.01533
+[Sign2GPT] https://arxiv.org/abs/2405.04164
+[Silicone Ceiling] https://arxiv.org/abs/2405.04412
+[TheaterGen] https://arxiv.org/abs/2404.18919
+[万知] www.wanzhi.com

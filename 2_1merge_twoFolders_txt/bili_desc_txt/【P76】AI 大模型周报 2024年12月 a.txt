@@ -1,0 +1,13 @@
+[6G网络管理GenAI数字孪生] https://arxiv.org/pdf/2411.14222
+[Cosmos Tokenizer] https://research.nvidia.com/labs/dir/cosmos-tokenizer
+[MindForge智能体协作学习] https://arxiv.org/pdf/2411.12977
+[OCx24催化剂数据集] https://arxiv.org/pdf/2411.11783
+[Purrfessor饮食指导] https://arxiv.org/pdf/2411.14925
+[QwQ-32B-Preview] https://modelscope.cn/models/Qwen/QwQ-32B-Preview
+[SemiKong半导体大模型] https://arxiv.org/pdf/2411.13802
+[数字孪生心脏] https://mp.weixin.qq.com/s/H2Rgb0pVgoBLRIWo6qAEsA
+[Tülu 3后训练模型] https://allenai.org/papers/tulu-3-report.pdf
+[UniTraj世界轨迹基础模型] https://arxiv.org/pdf/2411.03859
+[WORLDREP国际事件预测] https://arxiv.org/pdf/2411.14042
+[智能微型核反应堆] 
+https://www.tandfonline.com/doi/epdf/10.1080/17452759.2024.2411024?needAccess=true

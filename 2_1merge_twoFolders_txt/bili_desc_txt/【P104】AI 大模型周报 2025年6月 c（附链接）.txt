@@ -1,0 +1,8 @@
+[V-JEPA 2] https://ai.meta.com/vjepa
+[OneTwoVLA] https://arxiv.org/pdf/2505.11917
+[1X World Model] https://www.1x.tech/discover/redwood-ai-world-model
+[Hailuo 02] https://hailuoai.video
+[MiniMax-M1] https://github.com/MiniMax-AI/MiniMax-M1
+[PromptPilot] https://promptpilot.volcengine.com/home
+[Weather Lab] https://deepmind.google/discover/blog/weather-lab-cyclone-predictions-with-ai
+[Anthropic多智能体研究系统] https://www.anthropic.com/engineering/built-multi-agent-research-system

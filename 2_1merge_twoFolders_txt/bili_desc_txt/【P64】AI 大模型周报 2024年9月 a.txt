@@ -1,0 +1,13 @@
+[a16z GenAI apps] https://a16z.com/100-gen-ai-apps-3
+[CogVideoX] https://github.com/THUDM/CogVideo
+[Cursor代码编辑] https://www.cursor.com
+[Extension] https://github.com/albertocubeddu/extensionos?tab=readme-ov-file
+[LLM-HAS医疗警报系统] https://arxiv.org/abs/2408.13071
+[Meshy 文图转3D] https://www.meshy.ai/zh
+[MotionGen动作生成] https://www.motiongen.cn
+[Occupy AI网络攻击] https://arxiv.org/pdf/2408.12806
+[去中心化LLM推理] https://arxiv.org/abs/2408.15907
+[Qwen2-VL] https://github.com/QwenLM/Qwen2-VL
+[Transfusion] https://www.arxiv.org/abs/2408.11039
+[VMP] https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf
+[Zamba2-mini] https://huggingface.co/Zyphra/Zamba2-1.2B

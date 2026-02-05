@@ -1,0 +1,10 @@
+[谷歌同传] https://blog.google/products/search/gemini-capabilities-translation-upgrades
+[Gemini 2.5 Flash Native Audio] https://blog.google/products/gemini/gemini-audio-model-updates
+[Runway GWM-1] https://runwayml.com/research/introducing-runway-gwm-1
+[GLM-4.6V] https://z.ai/blog/glm-4.6v
+[Open-AutoGLM] https://xiao9905.github.io/AutoGLM
+[GPT-5.2] https://openai.com/zh-Hans-CN/index/introducing-gpt-5-2
+[Echo-N1] https://arxiv.org/pdf/2512.00344v1
+[Agentic AI Foundation] https://aaif.io
+[State of AI] https://openrouter.ai/state-of-ai
+[The state of enterprise AI] https://openai.com/index/the-state-of-enterprise-ai-2025-report

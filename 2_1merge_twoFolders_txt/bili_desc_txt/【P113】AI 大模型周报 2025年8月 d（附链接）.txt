@@ -1,0 +1,8 @@
+[DeepSeek-V3.1] https://api-docs.deepseek.com/news/news250821
+[ElevenLabs Video to Music] 
+[ElevenLabs AI dubbing] 
+[Higgsfield Product-To-Video]
+[MuseSteamer] https://huixiang.baidu.com/vg/i2v
+[ToonComposer] https://lg-li.github.io/project/tooncomposer
+[Seed-OSS-36B] https://github.com/ByteDance-Seed/seed-oss
+[Nemotron-Nano-9B-v2] https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2

@@ -1,0 +1,9 @@
+[ADAM-1阿尔茨海默症分析模型] https://arxiv.org/pdf/2501.08324
+[Agent Laboratory智能体研究助手] https://arxiv.org/pdf/2501.04227
+[大模型的心智理论能力/社会能力] https://arxiv.org/pdf/2302.02083
+[MiniMax-01闪电注意力模型] https://arxiv.org/pdf/2501.08313
+[North企业大模型工具by Cohere] https://cohere.com/north
+[Qwen Chat千问网页端界面] https://chat.qwenlm.ai
+[Sky-T1-Preview推理模型] https://github.com/NovaSky-AI/SkyThought
+[Slingshot心理学基础模型] https://www.slingshot.xyz
+[Titans谷歌新架构（长期记忆模块）] https://arxiv.org/pdf/2501.00663v1

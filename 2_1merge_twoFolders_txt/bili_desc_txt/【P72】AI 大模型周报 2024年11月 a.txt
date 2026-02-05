@@ -1,0 +1,12 @@
+[ADAM开放世界智能体] https://arxiv.org/pdf/2410.22194
+[AutoGLM手机智能体] https://ai-bot.cn/sites/2005.html
+[Co-STORM协作型研究] https://www.arxiv.org/pdf/2408.15232
+[DriveDreamer4D驾驶场景重建] https://arxiv.org/pdf/2410.13571
+[GLM-4-Voice语音模型] https://github.com/THUDM/GLM-4-Voice
+[GPT-4o看脸读心] https://arxiv.org/pdf/2410.22309
+[HIL-SERL机器人增强学习] https://hil-serl.github.io
+[HOVER机器人全身控制] https://hover-versatile-humanoid.github.io
+[LiMAC手机应用智能体] https://arxiv.org/pdf/2410.17883
+[MimicTalk人脸视频生成] https://mimictalk.github.io
+[Moondream视觉AI] https://www.moondream.ai
+[Sierra对话式智能体] https://sierra.ai

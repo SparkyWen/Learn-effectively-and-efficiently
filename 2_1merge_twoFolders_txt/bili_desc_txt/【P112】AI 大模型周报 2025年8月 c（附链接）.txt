@@ -1,0 +1,9 @@
+[Meta视觉模型DINOv3] https://ai.meta.com/dinov3
+[字节扩散语言模型Seed Diffusion Preview] https://seed.bytedance.com/zh/blog/seed-research-seed-diffusion-preview-released-a-diffusion-language-model-achieving-an-inference-speed-of-2-146-tokens-s
+[字节视频虚拟换装DreamVVT] https://virtu-lab.github.io
+[Gemini个性化故事书生成] https://gemini.google.com/gem/storybook
+[Gemma 3 270M] https://developers.googleblog.com/en/introducing-gemma-3-270m
+[Genspark AI Developer] https://www.genspark.ai/agents?type=ai_developer
+[牛津大学研究：更加温暖、有同理心的语言模型更不可靠而且趋于奉承] https://arxiv.org/pdf/2507.21919
+[How Hungry Is AI?] https://app.powerbi.com/view?r=eyJrIjoiZjVmOTI0MmMtY2U2Mi00ZTE2LTk2MGYtY2ZjNDMzODZkMjlmIiwidCI6IjQyNmQyYThkLTljY2QtNDI1NS04OTNkLTA2ODZhMzJjMTY4ZCIsImMiOjF9
+[Brookfield: Building the Backbone of AI] https://www.brookfield.com/sites/default/files/2025-08/Brookfield_Building_the_Backbone_of_AI.pdf

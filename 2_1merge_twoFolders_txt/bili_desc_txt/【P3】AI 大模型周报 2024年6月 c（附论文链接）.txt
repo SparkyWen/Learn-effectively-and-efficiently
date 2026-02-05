@@ -1,0 +1,14 @@
+[FaceGPT 3D人脸] https://arxiv.org/abs/2406.07163
+[FinVerse金融分析] https://arxiv.org/abs/2406.06379
+[GPTs食品安全] https://arxiv.org/abs/2406.06049
+[可灵视频生成大模型] https://kling.kuaishou.com
+[LawGPT中国法律知识] https://arxiv.org/abs/2406.04614
+[LogiCode逻辑异常检测] https://arxiv.org/abs/2406.04687
+[MacNet多代理协作] https://arxiv.org/abs/2406.07155
+[PITCH日常助手] https://arxiv.org/abs/2406.07485
+[PPPR提示优化器] https://arxiv.org/abs/2406.04683
+[RS-Agent遥感智能体] https://arxiv.org/abs/2406.07089
+[SynAsk有机合成] https://arxiv.org/abs/2406.04593
+[TextGrad自动微分] https://arxiv.org/abs/2406.07496
+[TimeGPT智慧农业] https://arxiv.org/abs/2405.18913
+[Whisper WebGPU] https://huggingface.co/spaces/Xenova/realtime-whisper-webgpu

@@ -1,0 +1,11 @@
+[AI Chess] https://arxiv.org/abs/2402.04494
+[Audio Flamingo] https://arxiv.org/abs/2402.01831
+[Chemical Literature Data Mining] https://arxiv.org/abs/2402.12993
+[FBI] https://arxiv.org/abs/2402.12713
+[LAVE] https://arxiv.org/abs/2402.10294
+[ModelGPT] https://arxiv.org/abs/2402.12408
+[MuLan] https://arxiv.org/abs/2402.12741
+[PANDA] https://arxiv.org/abs/2402.12835
+[SiLLM] https://arxiv.org/abs/2402.13036
+[Soft-SC] https://arxiv.org/abs/2402.13212
+[SoMeLVLM] https://arxiv.org/abs/2402.13022

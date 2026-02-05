@@ -1,0 +1,13 @@
+[Seedream 4.0] https://seed.bytedance.com/en/seedream4_0
+[Fellou] https://fellou.ai
+[Replit Agent 3] https://replit.com/agent3
+[Bilibili IndexTTS-2.0] https://huggingface.co/spaces/IndexTeam/IndexTTS-2-Demo
+[HunyuanImage2.1] https://hunyuan.tencent.com/image/en?tabIndex=0
+[CodeBuddy Code] https://www.codebuddy.ai/cli
+[Why Language Models Hallucinate] https://openai.com/index/why-language-models-hallucinate
+[Defeating Nondeterminism in LLM inference] https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference
+[K2 Think] https://www.k2think.ai
+[Kimi - Checkpoint Engine] https://github.com/MoonshotAI/checkpoint-engine
+[Qwen3-Next] https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list
+[Qwen Chat] https://chat.qwen.ai
+[Oracle Fiscal Year 2026 Q1 Results] https://investor.oracle.com/investor-news/news-details/2025/Oracle-Announces-Fiscal-Year-2026-First-Quarter-Financial-Results/default.aspx

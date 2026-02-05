@@ -1,0 +1,12 @@
+[AgentOhana] https://arxiv.org/abs/2402.15506
+[CloChat] https://arxiv.org/abs/2402.15265
+[DEEM] https://arxiv.org/abs/2402.15264
+[GEAR] https://research.nvidia.com/labs/gear
+[Genie] https://arxiv.org/abs/2402.15391
+[GPT-HateCheck] https://arxiv.org/abs/2402.15238
+[Le Chat] https://mistral.ai
+[LFMs] https://arxiv.org/abs/2402.07876
+[Nissist] https://arxiv.org/abs/2402.17531
+[PCF] https://arxiv.org/abs/2402.15481
+[ShapeLLM] https://arxiv.org/abs/2402.17766
+[SongComposer] https://arxiv.org/abs/2402.17645

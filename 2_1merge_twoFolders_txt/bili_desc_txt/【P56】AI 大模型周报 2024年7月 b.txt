@@ -1,0 +1,13 @@
+[ASFM金融市场模拟] https://arxiv.org/abs/2406.19966
+[Axelera AI] https://www.axelera.ai
+[Chat AI高性能计算服务] https://arxiv.org/abs/2407.00110
+[CriticGPT基于GPT-4训练的代码纠错模型] https://cdn.openai.com/llm-critics-help-catch-llm-bugs-paper.pdf
+[Gemma 2谷歌轻量型开源模型新成员] https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf
+[阶跃星辰] https://www.stepfun.com
+[LLCoach足球比赛战略] https://arxiv.org/abs/2406.18285
+[LLM Compiler代码优化系列模型] https://ai.meta.com/research/publications/meta-large-language-model-compiler-foundation-models-of-compiler-optimization
+[MmedAgent智能体使用医疗工具] https://arxiv.org/abs/2407.02483
+[Persona Hub数据合成] https://arxiv.org/abs/2406.20094
+[ProgressGym道德进步对齐] https://arxiv.org/abs/2406.20087
+[SimClass教室课堂模拟] https://arxiv.org/abs/2406.19226
+[Synthflow] https://synthflow.ai

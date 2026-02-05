@@ -1,0 +1,16 @@
+[Runway Gen-4.5] https://runwayml.com/research/introducing-runway-gen-4.5
+[Seedream 4.5] https://seed.bytedance.com/en/seedream4_5
+[Vidu Q2] https://www.vidu.com/zh
+[Kling AI (O1, Image O1, Kling 2.6, Avatar 2.0)] https://app.klingai.com/global
+[视频理解模型Vidi2] https://bytedance.github.io/vidi-website
+[DeepSeek-V3.2 & DeepSeek-V3.2-Speciale] https://huggingface.co/deepseek-ai/DeepSeek-V3.2/blob/main/assets/paper.pdf
+[Mistral 3] https://mistral.ai/news/mistral-3
+[Z-Image（造相）] https://z-image.ai
+[3D Studio v1.1 (PolyGen 1.5)] https://3d.hunyuan.tencent.com/login?redirect_url=https%3A%2F%2F3d.hunyuan.tencent.com%2Fstudio
+[HunyuanOCR] https://hunyuanocr.org
+[INTELLECT-3] https://chat.primeintellect.ai
+[AWS coding agent Kiro] https://kiro.dev/autonomous-agent
+[ToolOrchestra] https://arxiv.org/pdf/2511.21689
+[SemiAnalysis关于谷歌TPU的文章] https://newsletter.semianalysis.com/p/tpuv7-google-takes-a-swing-at-the
+[美国The Genesis Mission] https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission
+[Project Iceberg - MIT] https://iceberg.mit.edu

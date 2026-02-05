@@ -1,0 +1,17 @@
+Google DeepMind推出通用世界模型Genie 3
+MiniMax上线语音生成模型Speech 2.5
+OpenAI推出GPT-5
+OpenAI开源gpt-oss模型
+微软Edge浏览器推出Copilot模式
+Genspark推出多智能体平台Multi-Agent Platform
+脑机接口医疗设备公司Synchron完全通过意念操控iPad
+阿里千问团队推出Qwen-Image
+Black Forest Labs与Krea AI发布文生图模型FLUX.1 Krea [dev]
+小红书hi lab开源视觉语言模型dots.vlm1
+谷歌推出LangExtract开源Python库
+Anthropic发布Claude Opus 4.1
+Anthropic在AI模型的神经网络中发现persona vectors
+Anthropic的营收正以每年10倍的增幅发展
+2025世界机器人大会于8月8日在北京举行
+2025世界人形机器人运动会将于8月14日在北京举行
+ElevenLabs推出Eleven Music

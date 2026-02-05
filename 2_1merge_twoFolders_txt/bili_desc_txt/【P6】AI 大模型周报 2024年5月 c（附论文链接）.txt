@@ -1,0 +1,11 @@
+[百小应 AI助手] https://ying.baichuan-ai.com/chat
+[BiomedParse生物医学图像分析] https://arxiv.org/abs/2405.12971
+[DrHouse数字医疗] https://arxiv.org/abs/2405.12541
+[ERA化学分子搜索] https://arxiv.org/abs/2405.12961
+[ID-Animator人物视频生成] https://arxiv.org/abs/2404.15275
+[LearnLM] https://storage.googleapis.com/deepmind-media/LearnLM/LearnLM_paper.pdf
+[MagicPose人物姿势定位] https://arxiv.org/abs/2311.12052
+[MiniCPM-V] https://github.com/OpenBMB/MiniCPM-V
+[OpenCarbonEval碳足迹] https://arxiv.org/abs/2405.12843
+[SKIG道德推理决策] https://arxiv.org/abs/2405.12933
+[Transformer in Touch触觉任务] https://arxiv.org/abs/2405.12779

@@ -1,0 +1,15 @@
+[ALOHA 2] https://aloha-2.github.io/assets/aloha2.pdf
+[BASE TTS] https://arxiv.org/pdf/2402.08093.pdf
+[ChatScratch] https://arxiv.org/abs/2402.04975
+[FACT-GPT] https://arxiv.org/abs/2402.05904
+[Illuminate] https://arxiv.org/abs/2402.05127
+[LegalLens] https://arxiv.org/abs/2402.04335
+[LlaSMol] https://arxiv.org/abs/2402.09391
+[MAGNeT] https://arxiv.org/pdf/2401.04577.pdf
+[PEDS] https://arxiv.org/abs/2111.05841
+[ProtAgents] https://arxiv.org/abs/2402.04268
+[S-Agents] https://arxiv.org/abs/2402.04578
+[Sora] https://openai.com/sora
+[UltraLink] https://arxiv.org/abs/2402.04588
+[Weaver] https://arxiv.org/abs/2401.17268
+[WRAP] https://arxiv.org/abs/2401.16380

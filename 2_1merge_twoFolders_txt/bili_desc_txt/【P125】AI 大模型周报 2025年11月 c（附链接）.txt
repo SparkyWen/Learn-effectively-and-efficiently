@@ -1,0 +1,9 @@
+[Omnilingual ASR] https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition
+[Scribe v2 Realtime] https://elevenlabs.io/blog/introducing-scribe-v2-realtime
+[GPT-5.1] https://openai.com/index/gpt-5-1
+[SIMA 2] https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds
+[Marble] https://www.worldlabs.ai/blog/marble-world-model
+[MuleRun] https://mulerun.com
+[Kosmos] https://arxiv.org/pdf/2511.02824
+[TRAE SOLO] https://www.trae.ai
+[Private AI Compute] https://blog.google/technology/ai/google-private-ai-compute

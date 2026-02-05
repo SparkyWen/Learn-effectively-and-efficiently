@@ -1,0 +1,7 @@
+[Google I/O] https://blog.google/technology/ai/io-2025-keynote/#project-mariner
+[电影制作工具Flow] https://blog.google/technology/ai/google-flow-veo-ai-filmmaking-tool
+[OpenAI Codex] https://openai.com/index/introducing-codex
+[设计智能体Lovart AI] https://www.lovart.ai
+[动漫视频生成AniSora] https://github.com/bilibili/Index-anisora
+[深度研究引擎ARI] https://you.com/articles/o3-mini-judges-ari-enterprise-winner-over-openai-deep-research
+[Microsoft Build 2025] https://news.microsoft.com/build-2025

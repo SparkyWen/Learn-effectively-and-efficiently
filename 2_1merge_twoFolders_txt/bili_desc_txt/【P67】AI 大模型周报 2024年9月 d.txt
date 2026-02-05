@@ -1,0 +1,9 @@
+[ChefFusion食品计算] https://arxiv.org/abs/2409.12010
+[FoodPuzzle风味开发] https://arxiv.org/abs/2409.12832
+[LongLLaVA长文本能力] https://arxiv.org/abs/2409.02889
+[PersonaFlow研究构思] https://arxiv.org/abs/2409.12538
+[Qwen2.5] https://qwenlm.github.io/blog/qwen2.5
+[Qwen2.5-Math] https://arxiv.org/abs/2409.12122
+[Qwen2.5-Coder] https://arxiv.org/abs/2409.12186
+[Seed-Music] https://arxiv.org/abs/2409.09214
+[VARP游戏智能体] https://arxiv.org/abs/2409.12889

@@ -1,0 +1,5 @@
+[Janus-Pro多模态大模型] https://github.com/deepseek-ai/Janus
+[o3-mini推理模型] https://openai.com/index/openai-o3-mini
+[Qwen2.5-Max混合专家模型] https://qwenlm.github.io/blog/qwen2.5-max
+[Qwen2.5-VL视觉语言模型] https://github.com/QwenLM/Qwen2.5-VL
+[Transformer²自适应大模型] https://sakana.ai/transformer-squared

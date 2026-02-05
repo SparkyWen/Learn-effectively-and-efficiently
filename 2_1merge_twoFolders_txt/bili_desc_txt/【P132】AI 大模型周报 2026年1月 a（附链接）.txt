@@ -1,0 +1,6 @@
+[DeepSeek - mHC] https://arxiv.org/pdf/2512.24880
+[MIT - RLMs] https://arxiv.org/pdf/2512.24601v1
+[Qwen-Image-2512] https://qwen.ai/blog?id=qwen-image-2512
+[MAI-UI] https://tongyi-mai.github.io/MAI-UI
+[So long, GPT-5. Hello, Qwen.] https://www.wired.com/story/expired-tired-wired-gpt-5
+[Manus joining Meta] https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation

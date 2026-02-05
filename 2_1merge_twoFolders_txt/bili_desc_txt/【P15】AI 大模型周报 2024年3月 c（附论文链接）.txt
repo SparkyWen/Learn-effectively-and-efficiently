@@ -1,0 +1,15 @@
+[BrainBench] https://arxiv.org/abs/2403.03230
+[Devin] https://www.cognition-labs.com/blog
+[FinReport] https://arxiv.org/abs/2403.02647
+[Forecasting] https://arxiv.org/abs/2402.18563
+[GPT-FAR] https://arxiv.org/abs/2403.06660
+[MovieLLM] https://arxiv.org/abs/2403.01422
+[RC] https://www.nature.com/articles/s41467-024-45187-1
+[RFM-1] https://covariant.ai
+[RT-H] https://arxiv.org/abs/2403.01823
+[SLM] https://arxiv.org/abs/2402.16844
+[Stable Diffusion 3] https://arxiv.org/abs/2403.03206
+[SynCode] https://arxiv.org/abs/2403.01632v1
+[ThinkThrice] https://arxiv.org/abs/2312.00746
+[WorkArena] https://arxiv.org/abs/2403.07718
+[Wukong] https://arxiv.org/abs/2403.02545

@@ -1,0 +1,13 @@
+[ElevenLabs 音色设计] https://elevenlabs.io/voice-design
+[MiniMax 音色设计] https://www.minimaxi.com/audio/voice-design
+[ElevenLabss 11ai AI助理] https://elevenlabs.io/blog/introducing-11ai
+[Dipal D1虚拟伴侣] https://www.dipal.net
+[AI眼镜Oakley Meta HSTN] https://about.fb.com/news/2025/06/introducing-oakley-meta-glasses-a-new-category-of-performance-ai-glasses
+[Xiaomi AI 眼镜] https://www.mi.com/prod/xiaomi-ai-glasses?spmref=MiShop_PC.mihomepage.mtl_68268f9e352df300011b9422.1
+[Samsung AI Vision] https://www.samsung.com/us/tvs/vision-ai-tv
+[Anthropic Claude Artifacts] https://www.anthropic.com/news/build-artifacts
+[Doppl虚拟试装] https://labs.google/doppl
+[Gemini Robotics On-Device] https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices
+[AlphaGenome] https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome
+[Imagen 4] https://developers.googleblog.com/en/imagen-4-now-available-in-the-gemini-api-and-google-ai-studio
+[Gemini CLI] https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent

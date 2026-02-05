@@ -1,0 +1,10 @@
+[Gemini 2.5 Computer Use] https://blog.google/technology/google-deepmind/gemini-computer-use-model
+[Opal] https://opal.withgoogle.com/landing
+[Apps in ChatGPT] https://openai.com/index/introducing-apps-in-chatgpt
+[OpenAI AgentKit] https://openai.com/index/introducing-agentkit
+[Genkit Extension] https://developers.googleblog.com/en/announcing-the-genkit-extension-for-gemini-cli
+[Cursor Plan Mode] https://cursor.com/cn/blog/plan-mode
+[Claude Code Plugins] https://www.anthropic.com/news/claude-code-plugins
+[Ling-1T] https://zenmux.ai/inclusionai/ling-1t?utm_source=hf_inclusionAI
+[ElevenLabs Agent Workflows] https://elevenlabs.io/docs/agents-platform/customization/agent-workflows
+[NeuroChat] https://www.media.mit.edu/projects/neurochat-ai-bci/overview

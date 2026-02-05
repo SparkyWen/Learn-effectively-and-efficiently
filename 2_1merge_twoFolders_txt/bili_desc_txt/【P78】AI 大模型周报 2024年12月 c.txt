@@ -1,0 +1,14 @@
+谷歌SOTA量子芯片 Willow_哔哩哔哩_bilibili
+
+[Clone Alpha机器人] https://clonerobotics.com/android#x-ray
+[DrivingDojo驾驶世界模型数据集] https://arxiv.org/pdf/2410.10738
+[非洲DC水资源效率数据集] https://arxiv.org/pdf/2412.03716
+[FullStack Bench编程评估数据集] https://arxiv.org/pdf/2412.00535v2
+[GenCast概率天气预测] https://www.nature.com/articles/s41586-024-08252-9
+[Llama 3.3] https://www.llama.com/llama-downloads
+[PaliGemma 2] https://arxiv.org/pdf/2412.03555
+[See3D开放世界3D生成] https://arxiv.org/pdf/2412.06699
+[SocialMind AR社交辅助系统] https://arxiv.org/pdf/2412.04036
+[Sora视频生成平台] https://sora.com
+[SPICE烹饪赋能实体界面] https://arxiv.org/pdf/2412.03551
+[StarWhisper Telescope天体物理智能体系统] https://arxiv.org/pdf/2412.06412

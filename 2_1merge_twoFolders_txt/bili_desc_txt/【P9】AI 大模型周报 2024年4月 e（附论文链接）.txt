@@ -1,0 +1,13 @@
+[A-Learn成人学习情绪分析] https://arxiv.org/abs/2404.13267
+[Adobe Firefly图像生成] https://firefly.adobe.com
+[Augment编码辅助] https://www.augmentcode.com
+[COCONut视觉理解数据集] https://arxiv.org/abs/2404.08639
+[Emotions & Ethics情感解读] https://arxiv.org/abs/2404.13071
+[FakeBench假图基准] https://arxiv.org/abs/2404.13306
+[复旦LLMs双关语理解] https://arxiv.org/abs/2404.13599
+[Hi-Gen电商搜索] https://arxiv.org/abs/2404.15675
+[MenteeBot] https://www.menteebot.com
+[OpenCRISPR-1基因编辑] 10.1101/2024.04.22.590591
+[Phi-3微软小模型] https://arxiv.org/abs/2404.14219
+[商量-拟人大模型] https://character.sensetime.com
+[SurMo四维建模] https://arxiv.org/abs/2404.01225

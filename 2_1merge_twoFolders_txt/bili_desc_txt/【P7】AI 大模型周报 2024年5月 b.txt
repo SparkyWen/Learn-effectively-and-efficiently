@@ -1,0 +1,15 @@
+[ElevenLabs Music] https://twitter.com/elevenlabsio?lang=en
+[Gemini updates] https://blog.google/inside-google/message-ceo/google-io-2024-keynote-sundar-pichai/#gemini-era
+[GPT-4o] https://openai.com/index/hello-gpt-4o
+[混元-DiT] https://arxiv.org/pdf/2405.08748
+[IntelliExplain] https://arxiv.org/abs/2405.10250
+[LFED] https://arxiv.org/abs/2405.10166
+[Lumina-T2X] https://arxiv.org/abs/2405.05945
+[MarkLLM] https://arxiv.org/abs/2405.10051
+[ORBIT-Surgical] https://arxiv.org/abs/2404.16027
+[PSG-4D] https://arxiv.org/abs/2405.10305
+[Smurfs] https://arxiv.org/abs/2405.05955
+[SonifyAR] https://arxiv.org/abs/2405.07089
+[Veo] https://deepmind.google/technologies/veo
+[VS-Assistant] https://arxiv.org/abs/2405.08272
+[Yi-1.5] https://huggingface.co/01-ai

@@ -1,0 +1,10 @@
+[Claude 4] https://www.anthropic.com/news/claude-4
+[DeepSeek-R1-0528] https://huggingface.co/deepseek-ai/DeepSeek-R1-0528
+[Gemma 3n] https://developers.googleblog.com/en/introducing-gemma-3n
+[Devstral] https://mistral.ai/news/devstral
+[DreamGen] https://research.nvidia.com/labs/gear/dreamgen
+[Unmute] https://kyutai.org/2025/05/22/unmute.html
+[Tether对抗情感PUA] https://usetetherai.com
+[Vid2World扩散模型转世界模型] https://arxiv.org/pdf/2505.14357
+[PosterAgent学术海报生成] https://arxiv.org/pdf/2505.21497
+[KernelLLM定制内核] https://huggingface.co/facebook/KernelLLM

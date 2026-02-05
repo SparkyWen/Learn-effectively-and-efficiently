@@ -1,0 +1,13 @@
+[谷歌智能体开发套件ADK] https://cloud.google.com/blog/products/ai-machine-learning/build-and-manage-multi-system-agents-with-vertex-ai
+[谷歌智能体交互协议A2A] https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability
+[GitHub智能体模式Agent Mode] https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated
+[ChatGPT memory] https://x.com/OpenAI/status/1910378768172212636?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+[Meta Llama 4] https://ai.meta.com/blog/llama-4-multimodal-intelligence
+[英伟达Llama-3.1-Nemorton-Ultra-253B-v1] https://www.nvidia.com/en-us/ai-data-science/foundation-models/llama-nemotron
+[WordPress AI网页创建工具] https://wordpress.com/ai-website-builder/?ref=blog
+[代码推理模型DeepCoder-14B-Preview] https://www.together.ai/blog/deepcoder
+[DeepSite网页端应用开发工具] https://huggingface.co/spaces/enzostvs/deepsite
+[Midjourney V7] https://www.midjourney.com/updates/v7-alpha
+[xAI Grok 3 API] https://docs.x.ai/docs/overview#welcome
+[《2025 AI指数报告》] https://hai.stanford.edu/ai-index/2025-ai-index-report
+[AI 2027模拟预测] https://ai-2027.com

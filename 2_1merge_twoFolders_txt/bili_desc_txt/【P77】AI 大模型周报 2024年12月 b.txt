@@ -1,0 +1,16 @@
+基础世界模型Genie（2024年2月）
+基础世界模型Genie：从AI游戏生成 到具身智能AGI_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1jZ421y7xf/?spm_id_from=333.999.0.0&vd_source=909c3e879043cf08b359f2dbcb831255
+ 
+[AI与科学创新] https://aidantr.github.io/files/AI_innovation.pdf
+[Amazon Nova] https://aws.amazon.com/cn/ai/generative-ai/nova
+[Genex世界探索框架] https://arxiv.org/pdf/2411.11844
+[Genie 2大规模基础世界模型] https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model
+[IKEA家具组装视频手册] https://arxiv.org/pdf/2411.11409
+[Intellect-1分布式训练大模型] https://chat.primeintellect.ai
+[IT智能喉咙系统] https://arxiv.org/pdf/2411.18266
+[OASIS智能体社交模拟] https://arxiv.org/pdf/2411.11581
+[RevThink大模型反向思考] https://arxiv.org/pdf/2411.19865
+[World Labs单图生成可交互3D世界] https://www.worldlabs.ai/blog
+[小模型训练计算瓶颈] https://arxiv.org/pdf/2410.19456
+[智能体苏格拉底式学习] https://arxiv.org/pdf/2411.16905

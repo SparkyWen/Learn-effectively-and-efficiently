@@ -1,0 +1,10 @@
+[AgentSociety社会模拟] https://arxiv.org/pdf/2502.08691
+[ChatIoT物联网安全助手] https://arxiv.org/pdf/2502.09896
+[电子粘附皮肤] https://www.science.org/doi/10.1126/sciadv.adt4765
+[EventSTR场景文本识别数据集] https://arxiv.org/pdf/2502.09020
+[GENERator生成式基因组模型] https://arxiv.org/pdf/2502.07272
+[HealthGPT医学视觉语言模型] https://arxiv.org/pdf/2502.09838
+[LIDDiA药物研发智能体] https://arxiv.org/pdf/2502.13959
+[OpenAI Model Spec] https://openai.com/index/sharing-the-latest-model-spec
+[Perplexity深度研究] https://www.perplexity.ai
+[推荐系统智能体研究] https://arxiv.org/pdf/2502.10050

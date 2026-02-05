@@ -1,0 +1,14 @@
+[Cursor 2.0] https://cursor.com/cn/blog/2-0
+[GitHub Agent HQ] https://github.blog/news-insights/company-news/welcome-home-agents
+[MiniMax M2] https://agent.minimax.io
+[Hailuo 2.3] https://www.minimax.io/news/minimax-hailuo-23
+[Minimax Speech 2.6] https://www.minimax.io/news/minimax-speech-26
+[Game-TARS] https://seed-tars.com/game-tars
+[Seed3D 1.0] https://seed.bytedance.com/en/seed3d
+[WorldGrow] https://world-grow.github.io
+[Emu 3.5 - BAAI] https://emu.world/pages/web/landingPage
+[DreamOmni2] https://www.dreamomni.net/dreamomni-2
+[Pico-Banana-400K] https://github.com/apple/pico-banana-400k
+[gpt-oss-safeguard] https://openai.com/index/introducing-gpt-oss-safeguard
+[On-Policy Distillation] https://thinkingmachines.ai/blog/on-policy-distillation
+[Claude finance] https://www.anthropic.com/news/advancing-claude-for-financial-services

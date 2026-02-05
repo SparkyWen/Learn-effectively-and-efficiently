@@ -1,0 +1,11 @@
+[AlphaProteo高亲和力蛋白质结合剂] https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/AlphaProteo2024.pdf
+[BreachSeek网络安全渗透测试] https://arxiv.org/abs/2409.03789
+[Chai-1分子结构预测] https://chaiassets.com/chai-1/paper/technical_report_v1.pdf
+[FireRedTTS语音合成] https://fireredteam.github.io/demos/firered_tts
+[Fish Audio语音合成] https://fish.audio/zh-CN
+[Illuminate论文转播客] https://illuminate.google.com/home
+[Loopy音频驱动的肖像] https://loopyavatar.github.io
+[Mini-Omni端到端对话模型] https://www.arxiv.org/abs/2408.16725
+[OpenAI o1推理模型] https://openai.com/index/learning-to-reason-with-llms
+[ReKep空间智能机器人] https://rekep-robot.github.io
+[RoboTwin机器人DT数据生成] https://arxiv.org/abs/2409.02920

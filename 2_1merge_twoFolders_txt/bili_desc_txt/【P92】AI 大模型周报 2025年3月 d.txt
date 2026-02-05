@@ -1,0 +1,7 @@
+[Dynamo英伟达开源推理框架] https://www.nvidia.com/en-us/ai/dynamo
+[METR评估AI完成长任务的能力] https://arxiv.org/pdf/2503.14499
+[Mistral Small 3.1轻量模型] https://mistral.ai/news/mistral-small-3-1
+[OpenAI音频模型API] https://openai.com/index/introducing-our-next-generation-audio-models
+[Orpheus-TTS开源文本转语音] https://canopylabs.ai/model-releases
+[SpatialLM空间理解] https://manycore-research.github.io/SpatialLM
+[Stable Virtual Camera扩散模型影像合成] https://arxiv.org/pdf/2503.14489

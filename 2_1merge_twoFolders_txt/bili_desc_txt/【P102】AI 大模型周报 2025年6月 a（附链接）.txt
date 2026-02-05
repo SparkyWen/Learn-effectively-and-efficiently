@@ -1,0 +1,19 @@
+[Eleven v3] https://elevenlabs.io/v3
+[Bland TTS] https://www.bland.ai/blogs/new-tts-announcement
+[PlayDiffusion] https://blog.play.ai/blog/play-diffusion
+[Modify Video] https://lumalabs.ai/blog/news/introducing-modify-video
+[Higgsfield Speak] https://higgsfield.ai/avatars
+[Perplexity Labs] https://www.perplexity.ai/hub/blog/introducing-perplexity-labs
+[Cursor 1.0] https://www.cursor.com/ja/changelog/1-0
+[FLUX.1 Kontext] https://bfl.ai/models/flux-kontext
+[HunyuanVideo-Avatar] https://arxiv.org/pdf/2505.20156
+[Manus] https://manus.im
+[LightLab] https://arxiv.org/pdf/2505.09608
+[Darwin Gödel Machine] https://sakana.ai/dgm
+[Agents API] https://mistral.ai/news/agents-api
+[spurious rewards] https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf
+[仿生视觉系统] https://www.science.org/doi/10.1126/sciadv.adt3505
+[Thinking with Generated Images] https://arxiv.org/pdf/2505.22525
+[Berkeley Humanoid Lite] https://arxiv.org/pdf/2504.17249
+[Artificial Analysis模型智能指数] https://artificialanalysis.ai/models/deepseek-r1
+[《人工智能趋势》报告] https://www.bondcap.com/report/pdf/trends_artificial_intelligence.pdf

@@ -1,0 +1,20 @@
+[AI Index] https://hai.stanford.edu/news/ai-index-state-ai-13-charts
+[Any2Point] https://arxiv.org/abs/2404.07989
+[DreamScape] https://arxiv.org/abs/2404.09227
+[EduAgent] https://arxiv.org/abs/2404.07963
+[GPT-4V保险] https://arxiv.org/abs/2404.09690
+[Grok-1.5V] https://x.ai/blog/grok-1.5v
+[IDGE] https://arxiv.org/html/2404.00276v1
+[Infini-attention] https://arxiv.org/abs/2404.07143
+[InstantStyle] https://arxiv.org/abs/2404.02733
+[Megalodon] https://arxiv.org/abs/2404.08801
+[RiskLabs] https://arxiv.org/abs/2404.07452
+[SARA] https://arxiv.org/abs/2404.06906
+[SkyMusic] https://music.tiangong.cn/??ref=aihub.cn
+[TextHawk] https://arxiv.org/abs/2404.09204
+[Udio] https://www.udio.com
+[VAR] https://arxiv.org/abs/2404.02905
+[VizGroup] https://arxiv.org/abs/2404.08743
+ 
+[InstantID] https://www.bilibili.com/video/BV1zu4m1N7bj/?spm_id_from=333.337.search-card.all.click
+[Tranformer 101] https://www.bilibili.com/video/BV1GT421m7Uo/?spm_id_from=333.999.0.0

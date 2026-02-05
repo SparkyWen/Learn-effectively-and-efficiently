@@ -1,0 +1,11 @@
+[AlphaCodium] https://arxiv.org/abs/2401.08500
+[AlphaGeometry] https://www.nature.com/articles/s41586-023-06747-5
+[InfoCORE] https://arxiv.org/abs/2312.00718
+[GenCast] https://arxiv.org/abs/2312.15796
+[PESC] https://arxiv.org/abs/2401.02731
+[PLLaMa] https://arxiv.org/abs/2401.01600
+[Proxy-Tuning] https://arxiv.org/abs/2401.08565
+[SAMPLE] https://www.nature.com/articles/s44286-023-00002-4
+[SRLM] https://arxiv.org/abs/2401.10020
+[Vanna] https://vanna.ai/docs
+[VideoCrafter2] https://arxiv.org/abs/2401.09047

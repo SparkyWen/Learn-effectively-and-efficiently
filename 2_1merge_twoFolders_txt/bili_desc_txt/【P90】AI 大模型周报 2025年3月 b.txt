@@ -1,0 +1,5 @@
+[Manus通用智能体] https://manus.im
+[Mercury Coder] https://chat.inceptionlabs.ai
+[NextGenAI] https://openai.com/index/introducing-nextgenai
+[QwQ-32B] https://qwenlm.github.io/blog/qwq-32b
+[Sesame] https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice

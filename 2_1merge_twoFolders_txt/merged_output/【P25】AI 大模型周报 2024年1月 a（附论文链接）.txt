@@ -1,0 +1,18 @@
+﻿大家好,这里是AI大模型周报2024年1月的第一期。Google Research和MIT的研究者针对大模型训练数据的成本问题推出Sinclair,不用真实数据而只用合成图像合成描述来学习视觉表示。Frames, Synthetic Images and Synthetic Captions,并且其表现与使用真实数据的Clip相当。Clip就是Contrastive Language Image Training,对比语言图像与训练。加州大学和Snap的研究者推出定制化影像修复方案Dual Pivot Tuning,双支点调整。相较单纯基于扩散模型的盲目重建,Dual Pivot Tuning主要采取两个步骤。首先以文本为支点对扩散模型进行微调,允许模型学习参考图像中的身份信息,然后对指导网络进行微调,让编码器专注于提取图像的细节信息而非人物身份信息,从而在保持人物身份的同时让模糊的图像清晰化。Meta AI的研究者推出HyperBotran,能够基于单张图像快速生成3D结构。首先生成多角度的图像作为输入,然后根据输入图像调整SDF Network,也就是符号距离函数网络的权重,让模型通过Hyper Networks前馈适应新的场景。相较同类方案,Botran生成的结果与输入更加一致,质量更高。香港中文大学等研究者推出Rich Dreamer,可以根据文本生成细节丰富多样的3D内容,比如敲鼓的鳄鱼或者骑摩托车的爱因斯坦等等。团队首先基于一个通用的法线深度扩散模型生成物体的几何结构,用合成数据集进行微调,然后对基于物理的渲染材料进行建模。相较同类方法,Rich Dreamer的表现更好。新加坡国立大学和腾讯ARC Lab的研究者推出M2Gen多模态音乐理解和生成框架,负能音乐相关的艺术创作。模型利用多个模态编码器来对图像、视频和音乐进行编码,由Llama2模型进行理解并执行下游任务,擅长音乐理解、编辑和生成任务。上海交通大学等的研究者面向数学领域推出预训练数据库MathPile,Tokens达到95亿,相较其他数学语料库优势明显。MathPile遵循Less is more的原则进行细致的数据收集与处理,保证数据的质量,帮助增强语言模型的数学推理能力。团队计划开源不同版本的MathPile。中国农业大学科研团队对外发布应用于农业领域的行业大模型神农大模型1.0,具备农业知识问答、文本语义理解、文本摘要生成、农业生产决策推理等功能。模型由海量高质量农业知识数据训练,包含1000多万条农业知识图谱数据、5000多万条现代农业生产数据、2万本农业类图书。中国科学技术大学和Real Infinity的研究者推出City on Web,可以对网页端的大规模场景进行实时渲染,通过将全场景分割成较小的区块,能够在资源有限的环境下实现高清快速的渲染。相较同类方案,City on Web在恢复细节、达成高质量重建方面表现更优。斯坦福大学的研究者利用Wikipedia维基百科英文版的数据训练WikiChat,成功克服了大模型的幻觉问题,并且具备较高的对话能力和较低的延迟。在与人类用户讨论信息话题方面,WikiChat的事实准确度达到97.9%,相较GPT-4要高出55%。同时获得明显更高的用户评分。此外,WikiChat在相关度、自然程度、非重复性以及时间准确度方面表现良好。快手和哈尔滨工业大学的研究者推出基于大模型的信息检索代理系统,ThyAgents,能够理解用户的问询、引用外部文件、检索和升级内置信息,并通过时间感知的搜索浏览工具包计划和执行任务,从而提供全面的回复。复旦大学和海康威视的研究者推出LoraMOE,第一致自适应混合专家模型,可以看作插件版的MOE,Mixer of Experts,能够根据数据类型合理地协调专家,及时引入大量的指令数据来微调模型以适应特定的任务,也不会影响大模型此前积累的世界知识,World Knowledge。MIT等的研究者推出Laser,全称Layer Selected Rank Reduction,层选择降质,只需在模型训练完成之后对Transformer的特定层进行修剪,即可显著提高模型性能,并且不需要额外的参数或者数据。伦敦帝国学院等的研究者推出通用框架LLM Surgeon,能够有效地对大模型进行非结构化、半结构化以及结构化的修剪,Pruning of LLMs。实验发现LLM Surgeon可以为一系列OPT模型以及71参数的Lama2修剪20%到30%的行列,Rows and Columns,并且对性能的影响可以忽略不计。OPT是Meta AI在2022年推出的一系列预训练Transformer语言模型,其中1751参数的OPT性能与GPT-3相当,GPT-3参数也是1751亿。而开发消耗的碳足迹只有GPT-3的七分之一。清华大学、大连理工大学和北京油电大学的研究者面向大模型驱动的自动化代理推出Experiential Co-Learning框架,让代理能够从历史轨迹中收集捷径导向的经验,并通过代理之间的相互协作在执行任务时避免重复的错误和低效的尝试。阿里巴巴和南京大学的研究者面向大模型训练故障恢复推出UniChrome,融合英伟达的大模型训练库Megatron,提升大模型的训练恢复能力,其故障检测机制能够针对故障本身采取修正措施,并且考虑成本配置最优恢复方案。相较领先的同类方案,UniChrome的整体训练效率高出1.9倍。微软的研究者面向指令数据生成推出代码语言模型WaveCoder。Wave代表广泛多面的指令微调增强。为了让预训练模型与指令遵循训练数据集相一致,团队使用大模型生成判别框架,Generator Discriminator Framework,来生成指令数据,让数据生成流程更加可控可定制。在微调程度相似的情况下,WaveCoder处理代码相关任务的分化能力优于其他开源模型。苹果推出71参数开源大模型Ferret,具备良好的多模态能力,能够解读和创作图文内容,支持点、框、自由形状等多样的区域输入,也就是Region Inputs,而实现多模态大模型的细粒度引用和定位开放词汇描述。Ferret可以无缝融合iOS和MacOS,为用户提供流畅的体验。童话顺推出自研大模型HighSyncGPT,可以提供股票、基金、债券等15个金融业务领域的投资建议。投顾对话机器人问财,借由HighSyncGPT进行升级,涵盖查询、分析、对比、预测等50多项功能。印度移动出行平台欧拉推出AI语言模型Kootram,Kootram在梵语中意思是Artificial,人工的,主打理解印度的文化、知识和背景。模型用2万亿tokens训练,能够理解22种印度语言,支持10种语言的文本生成。丁丁联合IDC发布2024年AIGC应用层十大趋势白皮书,预测到2024年全球将涌现超过5亿款新应用,相当于过去40年的总和。白皮书指出2024年AIGC应用的十大趋势关键词包括应用层创新、AI Agent、专属模型、超级入口、多模态、AI原生应用、AI工具化、AI普会化等等。这期节目就到这里,前面提到的论文链接请参考视频简介部分。Thank you for listening!
+
+[M²UGen] https://arxiv.org/abs/2311.11255
+[Dual-Pivot Tuning] https://arxiv.org/abs/2312.17234
+[LoRAMoE] https://arxiv.org/abs/2312.09979
+[Hyper-VolTran] https://arxiv.org/abs/2312.16218
+[MathPile] https://arxiv.org/abs/2312.17120
+[WaveCoder] https://arxiv.org/abs/2312.14187
+[RichDreamer] https://arxiv.org/abs/2311.16918
+[LLM Surgeon] https://arxiv.org/abs/2312.17244
+[SynCLR] https://arxiv.org/abs/2312.17742
+[KwaiAgents] https://arxiv.org/abs/2312.04889v1
+[City-on-Web] https://arxiv.org/abs/2312.16457
+[LASER] https://arxiv.org/abs/2312.13558
+[Experiential Co-Learning] https://arxiv.org/abs/2312.17025v1
+[Unicron] https://arxiv.org/abs/2401.00134
+[Ferret] https://arxiv.org/abs/2310.07704
+[WikiChat] https://arxiv.org/abs/2305.14292

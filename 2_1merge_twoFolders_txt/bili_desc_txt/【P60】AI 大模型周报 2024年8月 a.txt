@@ -1,0 +1,12 @@
+[AI Studio数字人] https://ai.meta.com/ai-studio
+[Chat2Layout家具布局] https://arxiv.org/abs/2407.21333#
+[CLASI端到端同传] https://byteresearchcla.github.io/clasi
+[ComPeer主动同侪支持] https://arxiv.org/abs/2407.18064
+[LawLLM法律系统大模型] https://arxiv.org/abs/2407.21065#
+[Llama 3.1 405B] https://llama.meta.com
+[Midjourney 6.1] https://updates.midjourney.com/version-6-1
+[MINT-1T多模态数据集] https://arxiv.org/abs/2406.11271#
+[NVIDIA Edify] https://www.nvidia.com/en-us/gpu-cloud/picasso
+[Runway Gen-3 Alpha视频生成] https://runwayml.com/product
+[SearchGPT] https://openai.com/index/searchgpt-prototype
+[Vidu视频生成] https://www.vidu.studio

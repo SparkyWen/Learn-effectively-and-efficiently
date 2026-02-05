@@ -1,0 +1,11 @@
+[Agent K数据科学智能体] https://arxiv.org/pdf/2411.03562
+[AlphaFold3] https://github.com/google-deepmind/alphafold3
+[FinRobot股票研究智能体] https://arxiv.org/pdf/2411.08804
+[Manifest情绪健康] https://www.manifestapp.xyz
+[MatPilot材料科学家] https://arxiv.org/pdf/2411.08063
+[Matrix多智能体模拟数据合成] https://arxiv.org/pdf/2410.14251
+[Osmo气味数字化] https://www.osmo.ai
+[Sana Labs企业知识工具] https://sanalabs.com
+[Scaling Laws for Precision] https://arxiv.org/pdf/2411.04330
+[TimeLess未来软件开发] https://arxiv.org/pdf/2411.08507
+[Tokenformer模型参数令牌化] https://arxiv.org/pdf/2410.23168

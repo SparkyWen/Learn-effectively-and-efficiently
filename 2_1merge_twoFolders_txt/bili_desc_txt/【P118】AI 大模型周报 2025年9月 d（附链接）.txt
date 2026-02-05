@@ -1,0 +1,19 @@
+[Code World Model – Meta FAIR] https://ai.meta.com/research/publications/cwm-an-open-weights-llm-for-research-on-code-generation-with-world-models
+[ChatGPT Pulse] https://openai.com/index/introducing-chatgpt-pulse
+[Gemini Robotics-ER 1.5] https://developers.googleblog.com/en/building-the-next-generation-of-physical-agents-with-gemini-robotics-er-15
+[Mixboard] https://labs.google.com/mixboard/welcome
+[AI Quests] https://research.google/ai-quests/intl/en_gb/quest/market-marshes
+[Notion 3.0] https://www.notion.com/product/ai
+[Gamma 3.0] https://gamma.app/zh-cn/insights/introducing-gamma-3-0
+[DeepSeek-V3.1-Terminus] https://api-docs.deepseek.com/news/news250922
+[Grok 4 Fast] https://x.ai/news/grok-4-fast
+[Aivilization] https://aivilization.ai
+[Suno V5] https://suno.com/home
+[Phia] https://phia.com
+[Oura Health] https://ouraring.com
+[Qwen3-MAX] https://qwen.ai/blog?id=87dc93fc8a590dc718c77e1f6e84c07b474f6c5a&from=home.latest-research-list
+[Qwen3-Omni] https://qwen.ai/blog?id=65f766fc2dcba7905c1cb69cc4cab90e94126bf4&from=research.latest-advancements-list
+[Qwen3-VL] https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list
+[Wan2.5-Preview] https://wan.video
+[AI in 2030 – Epoch AI] https://epoch.ai/blog/what-will-ai-look-like-in-2030
+[GPT-5 passing Gödel Test] https://arxiv.org/pdf/2509.18383
