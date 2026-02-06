@@ -1,4 +1,6 @@
 {
-  "dir": "E:/Au_projects/调研/test",
-  "out": "E:/Au_projects/调研/ttt.xlsx"
+  "dir": "E:/Au_projects/1_26_AI_research_product/rename_raw_excel",
+  "out": "E:/Au_projects/1_26_AI_research_product/final_merge_excel",
+  "mode": "single",
+  "engine": "openpyxl"
 }

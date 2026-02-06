@@ -1,5 +1,5 @@
 {
-  "in_dir": "E:/Au_projects/research_AI/test",
-  "out_dir": "E:/Au_projects/research_AI/rename_test",
+  "in_dir": "E:/Au_projects/1_26_AI_research_product/raw_excel",
+  "out_dir": "E:/Au_projects/1_26_AI_research_product/rename_raw_excel",
   "headers_text": "产品名称, 时间, 行业/应用领域, 官网链接, 一句话介绍（功能与地位）"
 }
