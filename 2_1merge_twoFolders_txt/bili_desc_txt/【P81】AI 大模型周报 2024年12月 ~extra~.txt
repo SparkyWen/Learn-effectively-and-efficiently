@@ -1,8 +1,0 @@
-[Amuse音乐创作助手] https://arxiv.org/pdf/2412.18940
-[ASAL人工生命探索] https://pub.sakana.ai/asal
-[BAAIWorm线虫模型] https://www.nature.com/articles/s43588-024-00738-w
-[DeepSeek-V3] https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf
-[OCTAVE声音引擎] https://www.hume.ai/blog/introducing-octave
-[PC Agent代工AI系统] https://arxiv.org/pdf/2412.17589
-[VocAdapt语言学习工具] https://vocadapt.com
-[WiS平台（卧底游戏）] https://arxiv.org/pdf/2412.03359

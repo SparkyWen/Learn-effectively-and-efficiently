@@ -1,9 +1,0 @@
-[海豚发音模型DolphinGemma] https://blog.google/technology/ai/dolphingemma
-[Gemini 2.5 Flash混合推理] https://developers.googleblog.com/en/start-building-with-gemini-25-flash
-[OpenAI GPT-4.1] https://openai.com/index/gpt-4-1
-[推理模型o3, o4-mini] https://openai.com/index/introducing-o3-and-o4-mini
-[代码生成智能体Codex CLI] https://github.com/openai/codex
-[ModelScope MCP广场] https://www.modelscope.cn/mcp
-[Claude Research, Google Workspace] https://www.anthropic.com/news/research
-[可灵2.0视频生成] https://app.klingai.com/cn
-[一对一学习平台SigIQ.ai] https://sigiq.ai

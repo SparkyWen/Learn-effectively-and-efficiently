@@ -1,6 +1,0 @@
-[NVIDIA new models] https://blogs.nvidia.com/blog/open-models-data-tools-accelerate-ai/?ncid=so-yout-405101
-[NVIDIA Rubin] https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer
-[HY-Motion 1.0] https://hunyuan.tencent.com/motion?tabIndex=0
-[DeepSeek R1 updated] https://arxiv.org/pdf/2501.12948
-[Bind & Compose] https://refkxh.github.io/BiCo_Webpage
-[Dynamic Large Concept Models] https://arxiv.org/pdf/2512.24617v1

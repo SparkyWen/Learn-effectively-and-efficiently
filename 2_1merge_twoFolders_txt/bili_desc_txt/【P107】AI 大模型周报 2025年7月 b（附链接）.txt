@@ -1,7 +1,0 @@
-[Perplexity Comet] https://comet.perplexity.ai
-[Reachy Mini] https://huggingface.co/blog/reachy-mini
-[人类认知基础模型Centaur] https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B-adapter
-[DunedinPACNI] https://www.nature.com/articles/s43587-025-00897-z
-[BioEmu] https://github.com/microsoft/bioemu
-[Shortcut] https://www.tryshortcut.ai
-[DeepSeek-TNG-R1T2-Chimera] https://huggingface.co/tngtech/DeepSeek-TNG-R1T2-Chimera#deepseek-tng-r1t2-chimera

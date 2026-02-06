@@ -1,8 +1,0 @@
-[Altera自主智能体] https://altera.al
-[DiverseDialogue聊天多样化] https://arxiv.org/abs/2409.00262
-[GameNGen实时互动游戏引擎] https://gamengen.github.io
-[HoneyComb材料科学代理系统] https://arxiv.org/abs/2409.00135
-[Kolors虚拟试装] https://virtualtryon.net/zh/playground
-[NEO家务机器人] https://www.1x.tech/androids/neo
-[OpenCity交通预测] https://www.arxiv.org/abs/2408.10269
-[TinyAgent边缘函数调用] https://arxiv.org/abs/2409.00608

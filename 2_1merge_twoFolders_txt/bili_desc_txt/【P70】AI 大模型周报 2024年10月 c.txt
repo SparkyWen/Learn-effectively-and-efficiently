@@ -1,9 +1,0 @@
-[AI-Press新闻生成与反馈模拟] https://arxiv.org/pdf/2410.07561
-[FürElise钢琴手部动作数据集] https://arxiv.org/pdf/2410.05791
-[FusionLLM分布式大模型训练] https://arxiv.org/pdf/2410.12707
-[Llama-3.1-Nemotron-70B-Instruct] https://huggingface.co/chat
-[Moflin可以共情的宠物] https://www.casio.com/jp/moflin
-[PEAR叠层成像多智能体框架] https://arxiv.org/pdf/2410.09034
-[PoisonBench数据投毒抵抗力基准] https://arxiv.org/pdf/2410.08811
-[SoundScape声音记忆互动式创建] https://arxiv.org/pdf/2410.08136
-[Swarm多智能体编排框架] https://github.com/openai/swarm

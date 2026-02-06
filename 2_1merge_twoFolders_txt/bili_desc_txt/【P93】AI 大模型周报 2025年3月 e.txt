@@ -1,9 +1,0 @@
-[Ideogram] https://about.ideogram.ai/3.0
-[OpenAI 4o Image] https://openai.com/index/introducing-4o-image-generation
-[DeepSeek-V3-0324] https://huggingface.co/deepseek-ai/DeepSeek-V3-0324/tree/main
-[Hunyuan-T1] https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en
-[Nemotron-H] https://research.nvidia.com/labs/adlr/nemotronh
-[Qwen2.5-VL-32B-Instruct] https://qwenlm.github.io/blog/qwen2.5-vl-32b
-[Qwen2.5-Omni] https://github.com/QwenLM/Qwen2.5-Omni
-[Mureka V6] https://mp.weixin.qq.com/s/1JPYXUwX-1JAVpz3IgygtQ
-[LinkedIn工作变革报告] https://economicgraph.linkedin.com/research/work-change-report

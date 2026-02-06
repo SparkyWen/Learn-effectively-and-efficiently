@@ -1,7 +1,0 @@
-[AutoLife自动日记系统] https://arxiv.org/pdf/2412.15714
-[Baichuan4-Finance金融大模型] https://platform.baichuan-ai.com/finPage
-[Genesis物理模拟平台] https://genesis-embodied-ai.github.io
-[IDC智算服务报告] https://www.idc.com/getdoc.jsp?containerId=prCHC52894624
-[Kimi k1视觉思考模型] https://kimi.moonshot.cn
-[MathSpeech数学表达语言转化] https://arxiv.org/pdf/2412.15655
-[Thinking in Space空间思考MLLMs] https://arxiv.org/pdf/2412.14171v1

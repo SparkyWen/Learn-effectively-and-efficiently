@@ -1,9 +1,0 @@
-[ByteDance Seed M3-Agent] https://github.com/ByteDance-Seed/m3-agent?tab=readme-ov-file
-[ByteDance Waver 1.0] http://www.waver.video
-[rStar2-Agent] https://github.com/microsoft/rStar
-[VibeVoice] https://microsoft.github.io/VibeVoice
-[Pixverse V5] https://app.pixverse.ai/onboard
-[HunyuanWorld-Voyager] https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager
-[Hunyuan-MT-7B] https://huggingface.co/tencent/Hunyuan-MT-7B
-[Situational Awareness: The Decade Ahead] https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf
-[OpenAI - Staying ahead in the age of AI] https://cdn.openai.com/pdf/ae250928-4029-4f26-9e23-afac1fcee14c/staying-ahead-in-the-age-of-ai.pdf

@@ -1,7 +1,0 @@
-[Nano Banana] https://blog.google/products/gemini/updated-image-editing-model/
-[Hailuo start/end frames] https://hailuoai.video/create
-[MiniCPM-V 4.5] https://github.com/OpenBMB/MiniCPM-V
-[iAorta] https://www.nature.com/articles/s41591-025-03916-z
-[gpt-realtime] https://openai.com/index/introducing-gpt-realtime
-[ElevenLabs - voice clone] https://elevenlabs.io/voice-cloning
-[NVIDIA Q2 earnings] https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026
