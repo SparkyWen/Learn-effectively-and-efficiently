@@ -1,6 +1,6 @@
 {
-  "dir": "E:/Au_projects/1_26_AI_research_product/rename_raw_excel",
-  "out": "E:/Au_projects/1_26_AI_research_product/final_merge_excel",
+  "dir": "E:/Au_projects/2_26_Optimize_prompts/31_rename",
+  "out": "E:/Au_projects/2_26_Optimize_prompts/31_final",
   "mode": "single",
   "engine": "openpyxl"
 }
