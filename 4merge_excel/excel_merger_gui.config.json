@@ -1,6 +1,6 @@
 {
-  "dir": "E:/Au_projects/2_26_Optimize_prompts/31_rename",
-  "out": "E:/Au_projects/2_26_Optimize_prompts/31_final",
+  "dir": "E:/Au_projects/3_26_V2_Prompts/rename",
+  "out": "E:/Au_projects/3_26_V2_Prompts",
   "mode": "single",
   "engine": "openpyxl"
 }

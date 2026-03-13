@@ -1,5 +1,5 @@
 {
-  "in_dir": "E:/Au_projects/2_26_Optimize_prompts/31",
-  "out_dir": "E:/Au_projects/2_26_Optimize_prompts/31_rename",
+  "in_dir": "E:/Au_projects/3_26_V2_Prompts/excel",
+  "out_dir": "E:/Au_projects/3_26_V2_Prompts",
   "headers_text": "产品名称, 时间, 行业/应用领域, 官网链接, 一句话介绍（功能与地位）"
 }
